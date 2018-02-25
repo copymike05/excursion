@@ -1,7 +1,20 @@
-h1 {
+html {
+  background-color: black;
+}
+
+
+/* Headline */
+header {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: black;
+  color: white;
+  text-align: center;
+}
+
+/* Subheadline */
+h3 {
+  font size: 16px;
+  color: Aquamarine;
   text-align: center;
 }
